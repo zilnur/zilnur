@@ -9,3 +9,4 @@
 
 Сертификат о прохождении обучения:
 
+[iOS разработчик](https://github.com/zilnur/zilnur/blob/main/Сертификаты/certificate.pdf)
