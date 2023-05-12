@@ -4,8 +4,8 @@
 
 ### Что умею.
 
-1.[Дипломная работа](https://github.com/zilnur/NetologyVK)  
-2.[Курсовая работа](https://github.com/zilnur/MyWeather)
+[Дипломная работа](https://github.com/zilnur/NetologyVK)  
+[Курсовая работа](https://github.com/zilnur/MyWeather)
 
 Сертификат о прохождении обучения:
 
