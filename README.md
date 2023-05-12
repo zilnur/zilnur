@@ -11,5 +11,5 @@
 
 [iOS разработчик](https://github.com/zilnur/zilnur/blob/main/Сертификаты/certificate.pdf)
 
-[### Резюме](https://github.com/zilnur/zilnur/blob/main/Резюме/Резюме%20Закиров%20Ильнур.pdf)
+### [Резюме](https://github.com/zilnur/zilnur/blob/main/Резюме/Резюме%20Закиров%20Ильнур.pdf)
 
